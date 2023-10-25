@@ -1,6 +1,9 @@
  # -*- coding: utf-8 -*-
 """CMPSC132 - Homework 1.py
 
+$ cd /path/to/my/workspace/epi_models
+$ python3 -m pip install .
+
 I have included that code snippets for the <a href= "https://runestone.academy/runestone/books/published/pythonds3/Introduction/ObjectOrientedProgramminginPythonDefiningClasses.html">PSADS book below</a>. You need to extend the code in order to meet the criteria listed at the end of the chapter.
 """
 def gcd(m, n):
